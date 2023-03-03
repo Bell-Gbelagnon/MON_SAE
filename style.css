@@ -1,0 +1,219 @@
+.body{
+
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(700px, 4fr));
+    gap: 20px;
+    place-items: center;
+}
+
+.num1{
+    color: yellow;
+    left: 500px;
+    top: 430px;
+    position: absolute;
+    font-size: 900px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.textha{
+    top: 510px;
+    color: white;
+    left: 100px;
+    z-index: 10;
+    margin-top: 200px;
+}
+.very{
+    background-image: url(lorenzo-833726__340.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.tra{
+    background-color: yellow;
+    text-underline-position: left
+}
+.rol{
+    background-color: red;
+}
+.of{
+    background-color:lightseagreen ;
+}
+.yam{
+    background-color:rgb(211, 133, 17) ;
+}
+.andrea{
+    font-size: 30px;
+}
+.ducati{
+    font-size: 10px;
+}
+.image1{
+    left: 10px;
+    right: 10px;
+    width: 1200px;
+    height: 500px;
+    top: 60px;
+    position: absolute;
+    border-radius: 20px;
+}
+.img1{
+    width: 600px;
+    height: 300px;
+    left: 100px;
+    top: 750px;
+    position: absolute;
+    border-radius: 20px;
+    box-shadow: 8px 8px 8px;
+}
+.case{
+    top: 800px;
+    right: 90px;
+    position: absolute;
+}
+.single{
+    font-size: 52px;
+    
+}
+.Beta{
+    font-size: 25px;
+}
+.when{
+    font-size: 15px;
+}
+.num2{
+    color: red;
+    left: 300px;
+    top: 1100px;
+    position: absolute;
+    font-size: 900px;
+    font-family: 'Times New Roman', Times, serif;   
+}
+.text2{
+    top: 1400px;
+    left: 90px;
+    position: absolute;
+}
+.img2{
+    width: 600px;
+    height: 300px;
+    right: 100px;
+    top: 1500px;
+    position: absolute;
+    border-radius: 20px;
+    box-shadow: 8px 8px 8px;
+}
+.text2{
+    top: 1500px;
+    left: 50px;
+    position: absolute;
+}
+.roland{
+    font-size: 52px;
+}
+.cops{
+    font-size: 25px;
+}
+.sometimes{
+    font-size: 15px;
+}
+.num3{
+    color:lightseagreen;
+    left: 500px;
+    top: 1800px;
+    position: absolute;
+    font-size: 900px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.text3{
+    top: 2250px;
+    right: 10px;
+    position: absolute;
+} 
+.king{
+    font-size: 52px;
+}
+.john{
+    font-size: 25px;
+}
+.ellis{
+    font-size: 15px;
+}
+.img3{
+    width: 600px;
+    height: 300px;
+    left: 100px;
+    top: 2200px;
+    position: absolute;
+    border-radius: 20px;
+    box-shadow: 8px 8px 8px;
+}
+.num4{
+    color:rgb(211, 133, 17);
+    left: 300px;
+    top: 2500px;
+    position: absolute;
+    font-size: 900px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.text4{
+    top: 2900px;
+    left: 10px;
+    position: absolute;
+}
+.img4{
+    width: 600px;
+    height: 300px;
+    right: 80px;
+    top: 2900px;
+    position: absolute;
+    border-radius: 20px;
+    box-shadow: 8px 8px 8px;
+}
+.yamaha{
+    font-size: 52px;
+}
+.first{
+    font-size: 25px;
+}
+.the{
+    font-size: 15px;
+}
+
+.end{
+    padding-left:100px;
+    position: absolute;
+    top: 3300px;
+}
+.endfin{
+   background-color: rgb(36, 35, 35);
+   color: goldenrod;
+   background-position: 4200px;
+   top:3400px ;
+   position: absolute;
+   height: 50px;
+    width: 1264px;
+    text-align: center;
+    padding-top: 10px; 
+}
+.fa-facebook{
+    position: absolute;
+    top: 3300px;
+    z-index: 10;
+    color: black;
+}
+.fa-WathsApp{
+    position: absolute;
+    top: 3300pxpx;
+    z-index: 10;
+    color: black;
+}
+.fa-instagram{
+    position: absolute;
+    top: 3300pxpx;
+    z-index: 10;
+    color: black;
+}
+.fa-twitter{
+    position: absolute;
+    top: 3300px;
+    z-index: 10;
+    color: black;
+}
